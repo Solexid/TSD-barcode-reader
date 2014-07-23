@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/invertory/src/main/java/android_serialport_api/DeviceControl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/invertory/src/main/java/android_serialport_api/SerialPort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/invertory/src/main/java/android_serialport_api/SerialPortFinder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/invertory/src/main/java/core/DeviceControl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/invertory/src/main/java/core/ViewWithAddButton.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/invertory/src/main/jni" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/invertory/src/main/libs" charset="UTF-8" />
+  </component>
+</project>
+
